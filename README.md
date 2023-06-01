@@ -1,4 +1,6 @@
-<img src="https://github.com/senkoraku552/PHP-diving-notes/blob/master/public/php-logo-white.svg" width="200"/>
+<a url="https://www.php.net/">
+  <img src="https://github.com/senkoraku552/PHP-diving-notes/blob/master/public/php-logo-white.svg" width="200"/>
+</a>
 
 <p class="hero-text">
   A <strong>popular general-purpose scripting language</strong> 
