@@ -46,4 +46,4 @@ We’ve already laid the foundation — freeing you to create without sweating t
   - [vapor](https://vapor.laravel.com/)
 
 ---
-**Have fun diving with me && my repos!**
+**__Have fun diving with me && my repos!__**
