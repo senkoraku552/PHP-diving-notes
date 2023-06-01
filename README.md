@@ -21,3 +21,5 @@ Hopeful there would be more people learn to program php and let php become more 
 - [PHP.net](https://www.php.net/)
 - [PHP: The Right Way](https://phptherightway.com/)
 - [PHP-fig/PSR](https://www.php-fig.org/psr/)
+- [PHP Tutorial](https://www.phptutorial.net/)
+- [PHP Delusions](https://phpdelusions.net/)
