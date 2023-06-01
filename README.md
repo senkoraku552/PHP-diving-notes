@@ -16,3 +16,12 @@ Now I've been able to performance full OOP way in php
 Since after php-8.0 it has been getting huge improve.  
   
 Hopeful there would be more people learn to program php and let php become more powerfule language.  
+
+### Useful PHP guides
+![PHP.net](https://www.php.net/)  
+
+![PHP: The Right Way](https://phptherightway.com/)  
+  
+![PHP-fig/PSR](https://www.php-fig.org/psr/)  
+  
+  
