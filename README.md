@@ -1,3 +1,5 @@
+![alt text](https://github.com/senkoraku552/PHP-diving-notes/blob/master/php-logo-white.svg)
+
 <p class="hero-text">
   A <strong>popular general-purpose scripting language</strong> 
   that is especially suited to web development.<br>
