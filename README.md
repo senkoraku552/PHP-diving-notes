@@ -1,4 +1,5 @@
 <img src="https://github.com/senkoraku552/PHP-diving-notes/blob/master/public/php-logo-white.svg" width="200"/>
+
 # PHP
 <p class="hero-text">
   A <strong>popular general-purpose scripting language</strong> 
