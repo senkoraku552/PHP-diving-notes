@@ -1,4 +1,6 @@
 <img src="https://github.com/senkoraku552/PHP-diving-notes/blob/master/public/php-logo-white.svg" width="200"/>
+<img src="https://github.com/senkoraku552/php-diving-notes/blob/master/public/Laravel-Logomark.svg" />
+<img src="https://github.com/senkoraku552/php-diving-notes/blob/master/public/Laravel-Logotype.svg" />
 
 # PHP
 <p class="hero-text">
