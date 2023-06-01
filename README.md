@@ -32,10 +32,8 @@ Laravel is a web application framework with expressive, elegant syntax.
 We’ve already laid the foundation — freeing you to create without sweating the small things.    
 
 ## Useful PHP guides
-<table>
 - [PHP.net](https://www.php.net/)
 - [PHP: The Right Way](https://phptherightway.com/)
 - [PHP-fig/PSR](https://www.php-fig.org/psr/)
 - [PHP Tutorial](https://www.phptutorial.net/)
 - [PHP Delusions](https://phpdelusions.net/)
-</table>
