@@ -25,6 +25,12 @@ Since after php-8.0 it has been getting huge improve.
   
 Hopeful there would be more people learn to program php and let php become more powerfule language.  
 
+## Laravel is a elegant php framework for backend and full-stack
+### Lravel - The PHP Framework for Web Artisans
+Laravel is a web application framework with expressive, elegant syntax.    
+
+We’ve already laid the foundation — freeing you to create without sweating the small things.    
+
 ## Useful PHP guides
 - [PHP.net](https://www.php.net/)
 - [PHP: The Right Way](https://phptherightway.com/)
