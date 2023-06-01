@@ -41,3 +41,9 @@ We’ve already laid the foundation — freeing you to create without sweating t
 
 * Laravel
   - [Laravel.com](https://laravel.com/)
+  - [Laracast](https://laracasts.com/)
+  - [FORGE Laravel](https://forge.laravel.com/)
+  - [vapor](https://vapor.laravel.com/)
+
+---
+Have fun diving with me!
