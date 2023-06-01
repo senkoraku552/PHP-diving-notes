@@ -1,4 +1,4 @@
-![alt text]([https://github.com/senkoraku552/PHP-diving-notes/blob/master/php-logo-white.svg](https://github.com/senkoraku552/PHP-diving-notes/blob/master/public/php-logo-white.svg))
+![image](https://github.com/senkoraku552/PHP-diving-notes/blob/master/public/php-logo-white.svg)
 
 <p class="hero-text">
   A <strong>popular general-purpose scripting language</strong> 
