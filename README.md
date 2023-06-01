@@ -13,6 +13,6 @@ It has been let me self-learn from basic scrach to current advance php.
   
 Now I've been able to performance full OOP way in php  
   
-and since after php-8.0 it has been getting huge improve.  
+Since after php-8.0 it has been getting huge improve.  
   
-Hopeful there would be more people learn to program phps and let php become more powerfule language.  
+Hopeful there would be more people learn to program php and let php become more powerfule language.  
