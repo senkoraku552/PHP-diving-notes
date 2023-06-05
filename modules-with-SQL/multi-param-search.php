@@ -75,17 +75,17 @@ class SearchData extends Dbh
       // ----------------------------------------------------------------
 
       $this->query .= "
-				AND (
-					a.id REGEXP '{$this->pattern}'
-					OR a.col2 REGEXP '{$this->pattern}'
-					OR a.col3 REGEXP '{$this->pattern}'
-					OR a.col4 REGEXP '{$this->pattern}'
-					)
-			";
+      AND (
+        a.id REGEXP '{$this->pattern}'
+        OR a.col2 REGEXP '{$this->pattern}'
+        OR a.col3 REGEXP '{$this->pattern}'
+        OR a.col4 REGEXP '{$this->pattern}'
+        )
+        ";
     } else if ($param == "*" or $param == "") { // old version webpps use * as full search
       $this->query .= "
-				AND a.col1 LIKE '%%'
-			";
+      AND a.col1 LIKE '%%'
+      ";
     } else { // place holder for error messages
     }
 
