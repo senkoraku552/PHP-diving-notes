@@ -10,8 +10,8 @@ class SearchData extends Dbh
   {
     // define first query statement and initial with 1=1 anywhere query.
     $this->query = " SELECT columns FROM `table` 
-		WHERE 1 = 1
-		";
+    WHERE 1 = 1
+    ";
 
     // in SQL statement REGEXP function read "()" as pattern
     if ($param !== "") { // check for input parameters
@@ -65,13 +65,13 @@ class SearchData extends Dbh
 
       // ----------------------------------------------------------------
       /* version heredoc function
-			// 'heredoc' function in new version php.
-			// require at least php 7.4+
-			$param = <<< PATTERN 
-				(?=.*$param) 
-			PATTERN;
-			$param = str_replace(' ', ')(?=.*', $param);
-			*/
+      // 'heredoc' function in new version php.
+      // require at least php 7.4+
+      $param = <<< PATTERN 
+        (?=.*$param) 
+      PATTERN;
+      $param = str_replace(' ', ')(?=.*', $param);
+      */
       // ----------------------------------------------------------------
 
       $this->query .= "
@@ -81,7 +81,7 @@ class SearchData extends Dbh
         OR a.col3 REGEXP '{$this->pattern}'
         OR a.col4 REGEXP '{$this->pattern}'
         )
-        ";
+      ";
     } else if ($param == "*" or $param == "") { // old version webpps use * as full search
       $this->query .= "
       AND a.col1 LIKE '%%'
