@@ -1,5 +1,7 @@
 <?php
 
+use PDO;
+
 class SearchData extends Dbh
 {
   protected string $query;
